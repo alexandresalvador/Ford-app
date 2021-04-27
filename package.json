@@ -1,0 +1,25 @@
+{
+  "name": "ford-app",
+  "version": "1.0.0",
+  "description": "projeto de concessionarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/alexandresalvador/Ford-app.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "-M",
+    "main"
+  ],
+  "author": "alexandre-salvador",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
